@@ -1,0 +1,16 @@
+F:\Tareas realizadas\DCU\Media_player\Media_player\bin\Debug\Media_player.exe.config
+F:\Tareas realizadas\DCU\Media_player\Media_player\bin\Debug\Media_player.exe
+F:\Tareas realizadas\DCU\Media_player\Media_player\bin\Debug\Media_player.pdb
+F:\Tareas realizadas\DCU\Media_player\Media_player\bin\Debug\Interop.WMPLib.dll
+F:\Tareas realizadas\DCU\Media_player\Media_player\bin\Debug\AxInterop.WMPLib.dll
+F:\Tareas realizadas\DCU\Media_player\Media_player\obj\Debug\Media_player.csproj.AssemblyReference.cache
+F:\Tareas realizadas\DCU\Media_player\Media_player\obj\Debug\Media_player.csproj.SuggestedBindingRedirects.cache
+F:\Tareas realizadas\DCU\Media_player\Media_player\obj\Debug\Interop.WMPLib.dll
+F:\Tareas realizadas\DCU\Media_player\Media_player\obj\Debug\AxInterop.WMPLib.dll
+F:\Tareas realizadas\DCU\Media_player\Media_player\obj\Debug\Media_player.csproj.ResolveComReference.cache
+F:\Tareas realizadas\DCU\Media_player\Media_player\obj\Debug\Media_player.Form1.resources
+F:\Tareas realizadas\DCU\Media_player\Media_player\obj\Debug\Media_player.Properties.Resources.resources
+F:\Tareas realizadas\DCU\Media_player\Media_player\obj\Debug\Media_player.csproj.GenerateResource.cache
+F:\Tareas realizadas\DCU\Media_player\Media_player\obj\Debug\Media_player.csproj.CoreCompileInputs.cache
+F:\Tareas realizadas\DCU\Media_player\Media_player\obj\Debug\Media_player.exe
+F:\Tareas realizadas\DCU\Media_player\Media_player\obj\Debug\Media_player.pdb
